@@ -12,7 +12,7 @@ import logging
 
 cliqr_ccm = 'bds-ccc.auslab.cisco.com'
 cliqr_user = 'loyevans_e'
-cliqr_key = str('713EA2E8A097883C')
+cliqr_key = str('')
 
 
 #######################
